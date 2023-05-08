@@ -15,4 +15,3 @@ Agregar al README.md los comandos que ejecutaron en cada paso.
 Crear un nuevo commit con el mensaje “Agrega solución primer ejercicio”
 Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1.
 Enviar el link del repositorio en Github a su mentor(a).git
-hola
